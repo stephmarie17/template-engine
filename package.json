@@ -1,0 +1,28 @@
+{
+  "name": "template-engine",
+  "version": "1.0.0",
+  "description": "A Node CLI that takes in information about employees and generates an HTML webpage that displays summaries for each person",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephmarie17/template-engine.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stephmarie17/template-engine/issues"
+  },
+  "homepage": "https://github.com/stephmarie17/template-engine#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  }
+}
