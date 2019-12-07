@@ -13,8 +13,8 @@ To install, fork the repo on your machine. You will need the following packages:
 ### Usage
 Run the app.js file in node. Enter the fields when prompted; entering Y will allow the user to continue entering as many profiles as they like. When the user enters, n, a team.html file will dynamically generate and save to the Outputs folder.
 
-![Usage](template-engine-gif01)
+![Usage](template-engine-gif01.gif)
 
-![Usage](template-engine-gif02)
+![Usage](template-engine-gif02.gif)
 
-![Usage](template-engine-gif03)
+![Usage](template-engine-gif03.gif)
